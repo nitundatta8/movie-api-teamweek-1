@@ -42,22 +42,17 @@ _No known bugs at this time_
 
 ## Specs
 
-
-| **spec 1: Search input and button(click or submit?) input should be string**| √
-| **spec 2: Search　by title only to start up?** | √
-| **spec 3: Shows the related results the user searched (use API) ,lists only title in a new div or box**|√
-
-| **spec 4: When the user clicks the title of the movie its shows the movie detail page ⬇️** |
-| **spec 5: On the movie detail page user saves Movie as favorite (another button to save)** |
-| **spec 6: div or box to list saved Movies** |
-
-// this is similiar but with "older movies" - could be the same
-| **spec 8: The website/app provides older Movie status.(streaming) (use API)** |√
-
-| **spec 9: The website/app provides Movie images useing API** |√
-| **spec 10: When the user hit submit button it shows the list with images.** |√
-| **spec 11: age title, or image  should be clickab to display the detail** |
-
+* Search by movie name and  click search button.
+  - Input: "COCO"
+* Shows the related Movie List the user searched (use API).
+  - Input: "coco"
+  - Output: Related Movie List.
+* When the user clicks the title of the movie its shows the movie detail page.
+  - Input:Clicks the title of the movie  
+  - Output: Movie details page including movie title , year, description 
+* On the movie detail page user saves Movie as favorite.
+* Click the Favorite Movie button 
+* Show the Favorite Movie.
 
 
 
